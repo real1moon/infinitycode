@@ -1,1 +1,1 @@
-Yes
+Obligatory lag output; reduced
